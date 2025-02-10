@@ -1,6 +1,6 @@
-###Profile:Alex Pantus
+### Profile:Alex Pantus
 
-###Team Elanco2
+### Team Elanco2
 
 ##Weekly Sessiom: Monday 10:00
 
