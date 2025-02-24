@@ -1,13 +1,14 @@
+
 ### Profile:Alex Pantus
 
 ### Team Elanco2
 
-##Weekly Sessiom: Monday 10:00
+### Weekly Session: Monday 10:00
 
-Team memnbers:
+### Team members:
 
 Alex Pantus
 Ben McDonnell
 Ariba Naveed
-lenisha Kehoe
+Lenisha Kehoe
 Sebastian Tarabadi
