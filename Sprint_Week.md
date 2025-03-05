@@ -12,8 +12,9 @@ It required me to make some chnages in our resoruce management within the Azure 
 Lastlty, I did special training for the AI and let it run overnight.
 ### Day 4 Tasks
 On day 4, I did more testing with the custom vision iteration I ran over night. Due to the longer run time and the better data set used for this iteration. The AI was much more accurate so I focused mostly on testing it and pushing this new version to the live server for our meeting which we had on this day
-
+### Day 5 Tasks
+Made my slide for the presentation with the AI testing included and presented it to the Elanco team. They were satsified with our fucntionality however they feel like we should have our product be more focused on a specific user
 ### Task to Do
-For Next Week we have our last week of planning before spring week I'm going to try to write down a plan of the tasks that need to be doen and the vison for our program in a concrete way so everyone is alligned.
+For Next Sprint we have a clear vision of what to focus on, honing in on a specific user
 ### Issues
 We haven't had much experience working with an AI and training it so it might be challeging to get started and work with.
