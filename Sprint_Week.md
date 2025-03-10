@@ -17,4 +17,4 @@ Made my slide for the presentation with the AI testing included and presented it
 ### Task to Do
 For Next Sprint we have a clear vision of what to focus on, honing in on a specific user
 ### Issues
-We haven't had much experience working with an AI and training it so it might be challeging to get started and work with.
+We need to make sure that we spend our time on the priority tasks like improving the AI, the user interface and ptoentially make the website work on mobile. #fixing a spelling mistake
