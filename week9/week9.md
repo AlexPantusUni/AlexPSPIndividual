@@ -14,7 +14,7 @@ under
 We have finalised what tasks and focus everyone should have for the sprint week. 
 We've maintained the same basic structure as sprint week 1 where it's 1 area of the app with its respective tool done by a person. 
 We make sure to combine them and maintain compatibility along the way
-Me and ben will continue working on the AI, with me taking charge of the model and Ben providing appropriate images and advising me when needed on changes to make.
+Me and ben will continue working on the AI, with me taking charge of the model and Ben providing appropriate images and advising me when needed on changes to make. 
 ### Task to Do
 Next week we have our sprint week and everyone has been assigned a set of tasks and knows what to do. I will be doing the work on the AI model alongside Ben.
 We have a lot of changes to make to the model as we need to implement all the tags we've dicussed about.
