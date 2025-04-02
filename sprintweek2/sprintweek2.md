@@ -19,11 +19,15 @@ Ben made a different AI that was only trained on images of animals with diseases
 We found out that simplfliying the data set does not make it more precise and it does just need more balanced images where the new tags are shown in as amny possible situations, therefore we require more well-balanced examples to give the AI  a more holistic understing of what the tag is.
 ### Day 3
 #### Tasks Completed
-We trained the AI again with more varied illness images and then got some better confidence scores, trained it and saw that azure was not charging me any thing. 
+We trained the AI again with more varied illness images and then got some better confidence scores in the 70-80% range, trained it and saw that azure was not charging me any thing. 
 ### Task 1
-
+We provided the superior images for training, making sure we covered previous blind spots such as too few images of unhealthy eyes and I also introduced negative tags such as healthy eys vs unhealthy yes and healthy skin vs unhealthy skin.
+This helped masively improve image recognition perfomance thus boosting confidence scores from medium to high confidence (40% to 65%+).
 ### Task 2
+I checked my azure account and made sure before running the training of the AI and made sure that I did not exceed my available allowance of tags, images analysed and time spent training as I really did not want to have to pay for using the AI, for this project. That would hamper our ability to test as we'd have to reduce our image sample size or potentially even chnage the Ai engine we're using, however now I'm certain we should be fine and it should not prove a limiting factor.
+### Issues
 
-### Task to Do
-
+### Day 4
+### Task 1
+### Task 2
 ### Issues
