@@ -3,7 +3,7 @@
 In week 8, I spent most of the time alligning with the team on what tasks to do
 ### Task 1
 I discussed with Seb on the idea of making our website work for mobile devices and what the logistics behind it would require and how we could plan for it 
-.e.g changes in CSS, whether or how existing fcuntionality will have to be changed
+.e.g changes in CSS, whether or how existing fcuntionality will have to be changed 
 ### Task 2
 I also tried to start on the implementing of the advice based system functionality. 
 This essentially requires me to improve the tag generation on the AI and to allign have that allign with potential diseases, 
