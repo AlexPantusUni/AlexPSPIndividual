@@ -1,6 +1,6 @@
 
 ### Day 1
-We added tags that focused on specific illnesses cats and dogs encounter
+We added tags that focused on specific illnesses cats and dogs encounter and also brain-stormed some important accesibilyt features that we were recommended by a SHU lecturer.
 ### Task 1
 We added tags that focused on specific illnesses cats and dogs encounter
 ### Task 2
@@ -35,7 +35,7 @@ The AI has gotten good at identifying eye and skin issues however the confidence
 I ran the initial tests on Iteration 8 which we intend to demo as its confidence scores are good enough and also tried with ben's assistance in finding and collating more well-balanced images to create 
 one more final AI iteration
 ### Task 1
-I did the write up for the testing required to display the iterative perofmance imporvements that our AI has undertaken between sprint 1 and sprint 2. I compared all the versions so far with images from outside the data set and made a test sheet, which i attached
+I did the write up for the testing required to display the iterative perofmance imporvements that our AI has undertaken between sprint 1 and sprint 2. I compared all the versions so far with images from outside the data set and made a test sheet, which i attached. I showed these findings to my academic consulatant hwo was stisfied wiyth the perofmance metrics and the added functionality od symptom checking.
 ### Task 2
 I ran the advanced training with Ben for the new iteration however it ended up being somehwta worse after we tested it so we're a bit unsure and confused by this. I think we will have to assess this more closely before we decide what version to demo to our client on friday
 ### Issues
