@@ -33,11 +33,13 @@ The AI has gotten good at identifying eye and skin issues however the confidence
 ### Day 4
 #### Tasks Completed
 I ran the initial tests on Iteration 8 which we intend to demo as its confidence scores are good enough and also tried with ben's assistance in finding and collating more well-balanced images to create 
-one more final AI iteration
+one more final AI iteration. I also assisted Sebastain in giving us the right disease information and advice based on it.
 ### Task 1
 I did the write up for the testing required to display the iterative perofmance imporvements that our AI has undertaken between sprint 1 and sprint 2. I compared all the versions so far with images from outside the data set and made a test sheet, which i attached. I showed these findings to my academic consulatant hwo was stisfied wiyth the perofmance metrics and the added functionality od symptom checking.
 ### Task 2
 I ran the advanced training with Ben for the new iteration however it ended up being somehwta worse after we tested it so we're a bit unsure and confused by this. I think we will have to assess this more closely before we decide what version to demo to our client on friday
+### Task 3
+I talked with Sebastian and i made sure the tags that the new AI version outputs are what he uses to process the bac-end which will give users advice on everything, thyis is a crucial part of making the application more useful and intuitive and it needed co-ordination between the AI and the JavaScript back-end.
 ### Issues
 We may have ran into a bottleneck of Azure Custom Vision when it comes to how accurate it can get at spotting animal illness symptoms, this is either because of lack of good varied images accesible for free online or some sort of AI-side issue where it fixates on something when training is ran again. We do not have time to make another iteration so we would have to stick with iteration 8.
 ### Day 5
